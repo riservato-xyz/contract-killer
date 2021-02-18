@@ -1,6 +1,6 @@
 {
   "Contract Killer": {
-    "prefix": "contract-killer",
+    "prefix": "pt-contract-killer",
     "scope": "markdown,plaintext",
     "body": [
       "**Entre** ${1:nome_empresa}",
