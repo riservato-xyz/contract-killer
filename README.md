@@ -26,7 +26,7 @@ https://gist.github.com/tony-caffe/7c5f706730caaed2265624b214ff6534
 
 ## Usage
 
-### first way
+### method 1
 
 - open a Markdown or plaintext file;
 - hit `Ctrl + Space`;
@@ -35,7 +35,7 @@ https://gist.github.com/tony-caffe/7c5f706730caaed2265624b214ff6534
 - now, you just have to fill selected text placeholders, according to your needs;
 - hit `Tab` every time you are done and want to go to the next placeholder.
 
-### second way
+### method 2
 
 - open a Markdown or plaintext file;
 - start typing "contract-killer";
