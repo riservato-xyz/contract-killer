@@ -64,6 +64,8 @@ If you're newbie and don't know crap about Git and GitHub, feel free to [open an
 - start working on the translation, in the `contract-killer.code-snippets` file of your folder;
 - don't forget to create a proper prefix to your language:
   - `"prefix": "uk-contract-killer"`;
+- try to make commit messages in this format:
+  - `translation: section_title (en_UK)`;
 - push changes to your fork;
 - make a pull request, from your newly created branch to our master one.
 
@@ -76,5 +78,7 @@ Please, read the ongoing translation file, before starting with your changes. Th
 - make a branch named with the **proper language and country code**;
   - `git checkout -b en_UK`
 - start working on the translation, in the `contract-killer.code-snippets` file of your desired language;
+- try to make commit messages in this format:
+  - `translation: section_title (en_UK)`;
 - push changes to your fork;
 - make a pull request, from your newly created branch to our master one.
