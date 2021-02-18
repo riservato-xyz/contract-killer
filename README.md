@@ -62,6 +62,8 @@ If you're newbie and don't know crap about Git and GitHub, feel free to [open an
 - make an initial commit with this message:
   - `initial commit for en_UK`.
 - start working on the translation, in the `contract-killer.code-snippets` file of your folder;
+- don't forget to create a proper prefix to your language:
+  - `"prefix": "uk-contract-killer"`;
 - push changes to your fork;
 - make a pull request, from your newly created branch to our master one.
 
