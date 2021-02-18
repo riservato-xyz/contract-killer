@@ -5,7 +5,7 @@ This repository is supposed to maintain and distribute VSCode user snippets for 
 The contract version this repository supports is maintained by [tony-caffe][tony]:
 https://gist.github.com/tony-caffe/7c5f706730caaed2265624b214ff6534
 
-### what are VSCode snippets?
+### what are VSCode snippets
 
 > Code snippets are templates that make it easier to enter repeating code patterns, such as loops or conditional-statements.
 >
