@@ -4,15 +4,21 @@
 
 ### Summary:
 
-We’ll always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
+We’ll always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know:
+
+- what’s what;
+- who should do what and when;
+- and what will happen if something goes wrong.
+
+In this contract you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
 
 ### So in short;
 
-You **John Doe**, located at **wall streat** (“You”) are hiring us **Stuff & Nonsense** (“We or Us”) to:
+You **John Doe**, located at **wall street** (“You”) are hiring us **Stuff & Nonsense** (“We or Us”) to:
 
 - **Design and develop a web site**;
 
-For the estimated total price of **500,00 USD** as outlined in our previous correspondence.
+For the estimated total price of **500.00 USD** as outlined in our previous correspondence.
 
 ### What do both parties agree to?
 
