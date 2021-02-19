@@ -4,7 +4,7 @@
 
 ### Resumo:
 
-Vamos sempre fazer o possível para cumprir seus requisitos e alcançar suas expectativas, mas é importante registrar tudo para que fique claro:**
+Vamos sempre fazer o possível para cumprir seus requisitos e alcançar suas expectativas, mas é importante registrar tudo para que fique claro:
 
 - **o que é oquê**;
 - **quem deve fazer oquê**;
