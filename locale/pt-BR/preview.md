@@ -95,7 +95,7 @@ Não queremos limitar sua liberdade de mudar de ideia. O preço no início deste
 
 Vamos fazer nosso trabalho de acordo com as boas práticas da indústria e dentro do padrão esperado para uma empresa qualificada e com experiência relevante.
 
-Dito isso, não podemos garantir que nosso trabalho será livre de erros e não podemos ser responsáveis por danos a você ou terceiras partes, incluindo: perca de lucros e poupanças; ou outros danos acidentais, consequentes ou especiais, mesmo que você tenha nos aviso destes.
+Dito isso, não podemos garantir que nosso trabalho será livre de erros e não podemos ser responsáveis por danos a você ou terceiras partes, incluindo: perca de lucros e poupanças; ou outros danos acidentais, consequentes ou especiais, mesmo que você tenha nos avisado destes.
 
 Sua responsabilidade com a gente também será limitada a quantidade de taxas pagáveis sob este contrato e você não será responsabilizado por nós ou qualquer terceira parte por possíveis danos, incluindo: perca de lucros e poupanças; ou outros danos acidentais, consequentes ou especiais, mesmo que nós tenhamos avisado-lhe destes.
 
