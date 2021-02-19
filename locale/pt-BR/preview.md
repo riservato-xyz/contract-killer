@@ -1,0 +1,155 @@
+**Entre** riservato xyz
+
+**E** Carlos Gomes Almeida.
+
+### Resumo:
+
+Vamos sempre fazer o possível para cumprir seus requisitos e alcançar suas expectativas, mas é importante registrar tudo para que fique claro:**
+
+- **o que é oquê**;
+- **quem deve fazer oquê**;
+- **quando ou oquê acontece, se algo der errado**.
+
+Nesse contrato, você não vai encontrar palavras complicadas ou grandes passagens de difícil leitura, já que não temos intenção alguma de fazer você assinar algo que possa se arrepender. Aquilo que queremos é: o melhor para ambas as partes do contrato, agora e no futuro.
+
+### Então;
+
+Você **Carlos Gomes Almeida**, que encontra-se em **Rua Olímpia - 1103**, está nos contratando (**riservato xyz**) para:
+
+- **Design e desenvolvimento de site**;
+
+Pelo estimado preço de **R$500.00**, como negociado em ocasiões anteriores.
+
+### Oquê ambas as partes concordam?
+
+**Você**: tem autoridade de participar deste contrato representando a si mesmo, sua empresa ou organização; irá providenciar acesso aos conteúdos e informações que vamos pedir para completar o projeto e fará assim que solicitado e no formato apropriado; revisará o nosso trabalho em progresso, dará _feedback_ e aprovará o projeto, assim que solicitado; existirá prazos para ambas as partes, então, você também terá datas limites que estabeleceremos juntos; respeitará as datas de pagamento descritas no fim deste contrato.
+
+**Nós**: temos a experiência e expertise para fazer tudo aquilo que concordamos com você e faremos dentro do prazo e de forma profissional; vamos nos esforçar para fazermos entregas dentro de cada prazo estabelecido, além de manter o sigilo de toda informação e conteúdo que nos for passado.
+
+## Detalhes Sobre Design de Sites
+
+### Design
+
+Nós fazemos designs com _look-and-feel_ e _layouts_ flexíveis que se adaptam as capacidades de vários dispositivos e tamanhos de telas. Também criamos designs de forma interativa e usamos, predominantemente, HTML e CSS para que não percamos tempo modelando cada _template_ como um visual estático. Talvez, usaremos examplos visuais para indicar a direção criativa (cores, textura e tipografia). Chamamos isso de "atmosfera".
+
+Você terá diversas oportunidades de rever nosso trabalho e dar _feedback_. Vamos compartilhar um link para pastas no Dropbox, Google Drive, repositório Github ou site de desenvolvimento com você. Também manteremos contato, talvez, diariamente.
+
+Se, em algum momento, você mudar de ideia quanto aquilo que você quer que seja entregue e não esteja feliz com o rumo que nosso trabalho esteja tomando: nos pagará integralmente pelo tempo que gastamos trabalhando com você e o contrato será terminado.
+
+### Conteúdo de texto
+
+A menos que concordemos, separadamente: não seremos responsáveis por inserir textos e imagens, no seu CMS; ou criar todas as páginas de seu site. Nós oferecemos serviços profissionais de _copywriting_ e edição, então, se quiser que nós criemos ou preenchamos novos conteúdos para você, faremos um orçamento separado para isso.
+
+### Gráficos e fotografias
+
+Você deve providenciar arquivos gráficos em um formato vetorial e editável. Além disso, é necessário que imagens digitais sejam providenciadas em alta resolução. Se você escolher comprar _fotos stock_, podemos sugerir algumas bibliotecas. No entanto, se quiser que procuremos imagens para você, faremos um orçamento separado para isso.
+
+### HTML, CSS e JavaScript
+
+Nós entregamos páginas web desenvolvidas com marcação HTML, folha de estilos CSS e JavaScript para detecção de recursos, _poly-fills_ e comportamento de componentes.
+
+### Teste de navegadores
+
+Testar navegadores não mais significa tentar fazer com que um site pareça o mesmo, em navegadores de diferentes capacidades ou dispositivos com diferentes tamanhos de telas. Contudo, significa assegurar que a experiência de uma pessoa seja apropriada às capacidades de um navegador ou dispositivo.
+
+Nós testamos nosso trabalho nas versões recentes dos maiores navegadores, incluindo aqueles feitos pela Apple (Safari), Google (Chrome), Microsoft (Edge) e Mozilla Firefox. Não testaremos em navegadores mais antigos, includindo: Microsoft Internet Explorer 11 para Windows, a não ser que seja feito um acordo, separadamente. Se você quer um design aprimorado para um browser antigo, faremos um orçamento separado para isso.
+
+### Teste de navegadores móveis
+
+Fazer testes em dispositivos com telas menores é essencial, para assegurar que a experiência do usuário seja apropriada às capacidades do dispositivo em questão. Testamos nossos designs, em:
+
+- Android 9 para Google Pixel XL;
+- navegadores: Mozilla Firefox, Safari, Google Chrome.
+
+Não vamos testar, em:
+
+- dispositivos: Blackberry e Windows;
+- navegadores: Opera Mini/Mobile.
+- outros nevagores móveis, a não ser que seja feito um acordo, separadamente.
+
+Se você quer que façamos testes usando esses navegadores e dispositivos, faremos um orçamento separado para isso.
+
+### Suporte Técnico e Hospedagem
+
+Não somos um site de hospedagem, mas oferecemos hospedagem em nossos servidores alugados. Por isso, também oferecemos suporte limitado para hospedagem de sites, email ou outros serviços relacionados à hospedagem.
+
+Você já deve ter hospedagem profissional e pode até gerenciá-la, aonde quer que tenha contratado o serviço. Se não for o caso, podemos configurar uma conta para você, em um de seus provedores de hospedagem favoritos.
+
+Além disso, também podemos configurar seu site em um servidor com qualquer software de estatísticas (como Matomo ou Google Analytics) e faremos um orçamento separado para isso.
+
+No entanto, deste ponto em diante, atualizações e gerenciamento de servidor será por sua conta. Se quiser suporte à hospedagem de sites ou gerenciamento de CMS, faremos um orçamento separado para isso.
+
+### Manutenção e Segurança
+
+Não incluímos, automaticamente: suporte para qualquer tipo de manutenção, backup ou configuração/atualização de segurança depois que o design final é concluído. Não somos responsáveis por qualquer _hackeamento_ ou intrusão ao site ou CMS utilizado. Se você quiser suporte à manutenção ou segurança, faremos um orçamento separado para isso.
+
+### Search Engine Optimization (SEO)
+
+Não garantimos melhoras na _classificação_ de seu site em motores de busca, mas as páginas web que desenvolvemos são acessíveis aos os motores. Se quiser suporte mensal e abrangente, faremos um orçamento separado para isso.
+
+### Modificações e Revisões
+
+Não queremos limitar sua liberdade de mudar de ideia. O preço no início deste contrato é baseado no número de semanas que estimamos precisar para concluir tudo aquilo que foi combinado, mas estamos dispostos à sermos flexíveis. Se você quiser mudar de ideia ou adicionar algo novo, não será um problema. No entanto, faremos um orçamento separado para isso.
+
+### A parte jurídica
+
+Vamos fazer nosso trabalho de acordo com as boas práticas da indústria e dentro do padrão esperado para uma empresa qualificada e com experiência relevante.
+
+Dito isso, não podemos garantir que nosso trabalho será livre de erros e não podemos ser responsáveis por danos a você ou terceiras partes, incluindo: perca de lucros e poupanças; ou outros danos acidentais, consequentes ou especiais, mesmo que você tenha nos aviso destes.
+
+Sua responsabilidade com a gente também será limitada a quantidade de taxas pagáveis sob este contrato e você não será responsabilizado por nós ou qualquer terceira parte por possíveis danos, incluindo: perca de lucros e poupanças; ou outros danos acidentais, consequentes ou especiais, mesmo que nós tenhamos avisado-lhe destes.
+
+Finalmente: se qualquer provisão deste contrato não for legal, válida, ou por qualquer motivo não tiver respaldo, então, esta provisão deve ser considerada desassociada deste contrato e não deve afetar a validade e respaldo do restante de provisões.
+
+### Direitos de Propriedade Intelectual
+
+Para ficar claro: "Direitos de Propriedade Intelectual" significa todas as patentes, direitos de invenção, _copyright_ (incluindo direitos de software) e outros direitos similares, marca-d'água, marcas registradas, nomes fantasias, nomes de domínios de internet, direitos de boa vontade ou para processar por difamação, direitos sobre designs, direitos sobre bancos de dados, direitos sobre informações confidenciais (incluindo _know-how_) e quaisquer outros direitos de propriedade intelectual; seja registrado ou não registrado e incluindo todas aplicações (ou direitos de aplicar), renovações ou extensões, de tais direitos e similares, equivalentes ou formas de proteção em vigor ou que devem entrar em vigor agora ou no futuro, em qualquer parte do mundo.
+
+Primeiramente, você deve garantir que todos os elementos de texto, imagens ou obra de arte são: pertencentes à vocês ou concedido-lhes sob permissão de uso. Quando você providencia textos, imagens ou outras obras de artes para nós, você concorda em nos proteger de qualquer reivindicação de terceiros sobre os dizeres que estamos usando sua propriedade intelectual.
+
+Nós garantimos que todos os elementos de trabalho que entregamos à você são: pertencentes a nós ou concedidos sob o direito de provê-los à você. Quando provideciamos textos, images ou outras obras de artes à você, concordamos em protegê-lo de qualquer reivindicação de terceiros sob os dizeres que você está usando a propriedade intelectual deles. Dado que você tenha pago pelo trabalho e que este contrato não tenha sido terminado, vamos atribuir todos os direitos de propriedade intelectual à você, da seguinte forma:
+
+- Você será proprietário do website que fizermos o design, além dos elementos visuais que criamos para ele. Vamos providenciar os arquivos fontes e finalizados, os quais você deve manter seguros, já que não somos obrigados à manter cópias destes. Você também é proprietário de todos os direitos de propriedade intelectual de textos, imagens, especificação de site e dados que você providencia, a menos que já pertençam a terceiros.
+- Nos pertencerá qualquer direito de propriedade intelectual que desenvolvemos antes ou separadamente deste projeto e que não foram pagos por você. Nos pertencerá a combinação única destes elementos que constitui um design completo e que, então, será licenciado o uso à você, esclusiva e perpetuamente para este projeto apenas, a menos que concordemos do contrário.
+
+### Exclusividade
+
+A menos que aprovado por ambas as partes, **riservato xyz** não prestará serviços à seus competidores e a vossa contratação de qualquer serviço terceirizado idêntico aos que estão neste contrato será considerado uma violação destes termos em que o valor aparente do contrato será cobrado integralmente.
+
+Qualquer contratante envolvido neste contrato será: empregado direto ou parceiro de **riservato xyz**; patrocinado por **riservato xyz**; ou empregados em tempo integral e parceiros de **Carlos Gomes Almeida**. Qualquer empregado de meio expediente de **Carlos Gomes Almeida** será incluído no mesmo **termo de confidencialidade** e **contratos de não-competição** que **riservato xyz** usa para seus empregados internos e contratantes.
+
+### Exibindo nosso trabalho
+
+Nós gostamos de exibir nosso trabalho, então, reservamos nosso direito de mostrar todos os aspectos do nosso trabalho criativo, incluindo: esboços, _designs em progresso_ e o projeto finalizado; no nosso site, artigos em websites, artigos em revistas e livros.
+
+### Cronograma de Pagamento
+
+Temos certeza que você entende o quão importante é: pagar as faturas que enviaremos, o mais rápido possível. Assim como também temos certeza de que você gostará de manter boas relações e, por isso, concorda em seguir o seguinte cronograma de pagamentos.
+
+**Detalhes de Pagamento**
+
+**Cronograma de Pagamento**
+
+Emitimos faturas, eletronicamente. Nosso prazo de pagameto é de **5 dias**, após a emissão da fatura. Todos os valores são cobrados em real brasileiro (BRL ou R$) e pagametos devem ser feitos sob taxa de conversão de moeda equivalente (se necessário), no dia que o pagamento for realizado.
+
+Você concorda em pagar todas taxas associadas com transferências internacionais de fundos, se necessário. Os detalhes da conta bancária ou método de pagamento serão impressos na fatura eletrônica. Nós reservamos o direito de cobrar multas por atraso, com juros de 5% ao mês.
+
+### Detalhes Finais
+
+- Nenhuma das partes pode transferir este contrato para outrém, sem a permissão um do outro;
+- Ambas as partes concordam que vão aderir à todas as leis e regulamentações relativas às nossas atividades sob este contrato e não causar com que o outro fira qualquer lei ou regulamentação relevante;
+
+Este contrato consolida-se, portanto e, não exige atualização. Se, por algum motivo, uma das partes deste contrato torna-se inválida ou incapaz, o restante das partes permanece no contrato.
+
+Apesar de linguagem simples, as intenções são sérias e este contrato é um documento legal sob jurisdição exclusiva de tribunais da República Federativa do Brasil.
+
+<br/><br/>
+
+Assinado por e representando **riservato xyz**<br/>
+Assinado por e representando **Carlos Gomes Almeida**<br/>
+
+Data **19 de Fevereiro de 2021**
+
+<br/><br/>
+
+Todos devem assinar acima e manter cópia em registro.
